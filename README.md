@@ -4,14 +4,14 @@ https://www.tinkercad.com/things/iFOEUsKT9eX-robotic-arm
 
 This repository contains the first task **5-DOF robotic arm** model created using **Tinkercad**.  
 The arm design includes multiple revolute joints and a gripper at the end.
-![Robot Arm](pic3)
+![Robot Arm](pic3.png)
 
 
 ## 💡 Features
 - 5 revolute joints
 - End effector gripper for basic manipulation
 - Simple, modular design for easy adaptation
-![Robot Arm](pic1)
+![Robot Arm](pic1.png)
 
 
 ## ⚡ Joint Diagram
@@ -19,7 +19,7 @@ The arm design includes multiple revolute joints and a gripper at the end.
 Below is a diagram showing the 5 joints of the robot arm.  
 
 
-![Robot Arm](pic2)
+![Robot Arm](pic2.png)
 
 
 
